@@ -1,0 +1,4 @@
+# Domestic Violence in India: Clustering Victims of DV for Outreach
+This analysis uses K Means clustering on USAID's DHS India 2015-2016 survey data to group women in India (in unions) according to their experience with domestic violence. 
+Three primary groups were found: those that report dv, those that are afraid of their partners but don't report dv, and those that are neither afraid nor report dv.
+Suggestions are made on how to tailor social campaigns toward the partners of these women, and these women, in an order to more effectively target dv in India.
